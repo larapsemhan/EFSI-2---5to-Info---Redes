@@ -9,28 +9,106 @@ ___
 
 # TP1
 * Trabajamos por grupos de proyecto (4 o 5 Alumnos - Por ahora en Google Docs)
-* Crear una tabla comparativa entre Suites de protocolos (TCP/IP \<=\> OSI)
-* Ir Generando un Glosario
+# Tabla "Guia" =\> "Cheat-Sheet"
 
-## Contenido del Glosario
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9wq8" colspan="6">MODELO DE CAPAS (Layers)</th>
+    <th class="tg-9wq8" rowspan="2">Protocolos de red </th>
+    <th class="tg-9wq8" rowspan="2">Dispositivo de conexion de red</th>
+  </tr>
+  <tr>
+    <th class="tg-9wq8">"Tipos" de Capas</th>
+    <th class="tg-9wq8" colspan="2"> MODELO OSI</th>
+    <th class="tg-9wq8" colspan="2">MODELO TCP/IP </th>
+    <th class="tg-9wq8">Unidad de datos de protocolo (PDU)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9wq8" rowspan="4">Capas del anfitrion/host "Software"</td>
+    <td class="tg-9wq8">7</td>
+    <td class="tg-9wq8">Aplication</td>
+    <td class="tg-9wq8" rowspan="3">4</td>
+    <td class="tg-9wq8" rowspan="3">Process</td>
+    <td class="tg-9wq8" rowspan="3"></td>
+    <td class="tg-9wq8" rowspan="3"></td>
+    <td class="tg-9wq8" rowspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">6</td>
+    <td class="tg-9wq8">Presentation</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">5</td>
+    <td class="tg-9wq8">Session</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">4</td>
+    <td class="tg-9wq8">Transport</td>
+    <td class="tg-9wq8">3</td>
+    <td class="tg-9wq8">Transport</td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8" rowspan="4">Capas de red  "Firmware" "Hardware"</td>
+    <td class="tg-9wq8">3</td>
+    <td class="tg-9wq8">Network</td>
+    <td class="tg-9wq8">2</td>
+    <td class="tg-9wq8">Network / Internet</td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">2</td>
+    <td class="tg-9wq8">Data link</td>
+    <td class="tg-9wq8" rowspan="3">1</td>
+    <td class="tg-9wq8" rowspan="3">Media</td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">1</td>
+    <td class="tg-9wq8">Physical</td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">0*</td>
+    <td class="tg-9wq8">Media</td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+</tbody>
+</table>
 
-* ### Elementos de una red
-__\[Nuevo\]__ y en que capa de los modelos TCP/IP \<=\> OSI trabajan) __\[Nuevo\]__
+# Glosario
+
+## Contenido del Glosario : 
+* Definicion y/o explicacion 
+* En que capa TCP/IP \<=\> OSI trabajan
+* ### Elementos de una red (y en que capa de los modelos TCP/IP \<=\> OSI trabajan)
   *  Router
-  *  Switch Capa 2
-  * __\[Nuevo\]__ Switch Capa 3 __\[Nuevo\]__
+  *  Switch 
+   *  Switch Capa 2
+   *  Switch Capa 3
   *  Hub
   *  Server
   *  Host
   *  Firewall
   *  IP phone
-  *  Wireless Access-poitn
+  *  Wireless Access-point
   *  Wireless Router
   *  Wan
   *  Lan
-  *  Media
+  *  Media (Medio de Transporte)
 * ### Protocolos
-(y en que capa de los modelos TCP/IP \<=\> OSI trabajan)
   *  DNS
   *  FTP
   *  SSH
@@ -47,9 +125,7 @@ __\[Nuevo\]__ y en que capa de los modelos TCP/IP \<=\> OSI trabajan) __\[Nuevo\
   *  IEEE 802.11 (WIFI)
   *  Fibra OPTICA
 
-__\[Nuevo de aca en adelante\]__
 * ###   Unidad de Datos de protocolo (PDU)(Encapsulamiento)
-(y en que capa de los modelos TCP/IP \<=\> OSI trabajan)
   * Datos
   * Segmento
   * Paquete
@@ -81,8 +157,8 @@ __\[Nuevo de aca en adelante\]__
      1. cantidad de pares en uso
      2. Velocidad Maxima
      3. Tipo de cable
+    * Full Duplex (802.3x)
     * Auto-negociación
       * velocidad
-      * Full Duplex vs Half Duplex
-    * Full Duplex (802.3x)
+      * Full Duplex vs Half Duplex\
     * POE (802.3af)
