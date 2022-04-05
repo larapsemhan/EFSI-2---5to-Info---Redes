@@ -18,7 +18,7 @@ ___
 __\[Nuevo\]__ y en que capa de los modelos TCP/IP \<=\> OSI trabajan) __\[Nuevo\]__
   *  Router
   *  Switch Capa 2
-  * __\[Nuevo\]__Switch Capa 3 __\[Nuevo\]__
+  * __\[Nuevo\]__ Switch Capa 3 __\[Nuevo\]__
   *  Hub
   *  Server
   *  Host
