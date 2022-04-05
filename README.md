@@ -48,8 +48,8 @@ __\[Nuevo\]__ y en que capa de los modelos TCP/IP \<=\> OSI trabajan) __\[Nuevo\
   *  Fibra OPTICA
 
 __\[Nuevo de aca en adelante\]__
-* ###   Unidad de Datos de protocolo (PDU)
- #### Encapsulamiento
+* ###   Unidad de Datos de protocolo (PDU)(Encapsulamiento)
+  
 (y en que capa de los modelos TCP/IP \<=\> OSI trabajan)
   * Datos
   * Segmento
