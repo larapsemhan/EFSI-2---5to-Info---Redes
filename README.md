@@ -49,7 +49,6 @@ __\[Nuevo\]__ y en que capa de los modelos TCP/IP \<=\> OSI trabajan) __\[Nuevo\
 
 __\[Nuevo de aca en adelante\]__
 * ###   Unidad de Datos de protocolo (PDU)(Encapsulamiento)
-  
 (y en que capa de los modelos TCP/IP \<=\> OSI trabajan)
   * Datos
   * Segmento
