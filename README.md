@@ -5,3 +5,4 @@ jncwcwo
 ## Clasroom 5to b:
 gvqmat4
 
+![lista de simbolos](01 - Simbolos.JPG)
