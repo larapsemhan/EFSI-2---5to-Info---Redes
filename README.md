@@ -99,6 +99,8 @@ Template para tp1 de seminario
 </tbody>
 </table>
 
+*La capa de Medio (Media) no forma parte oficial del Modelo OSI, pero esquematicamente la estudiamos ahi
+
 # Glosario
 
 ## Contenido del Glosario :
