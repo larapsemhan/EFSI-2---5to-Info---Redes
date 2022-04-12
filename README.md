@@ -8,7 +8,18 @@ gvqmat4
 ___
 
 # TP1
-* Trabajamos por grupos de proyecto (4 o 5 Alumnos - Por ahora en Google Docs)
+Template para tp1 de seminario
+
+ ## Consigna:
+ * El trabajo es por grupos de proyecto
+ * Tienen que trabajar todos utilizando la metodologia del workflow de github
+ * Organizar que parte del glosario/tabla hace cada uno por medio de la seccion de Issues
+ * Cada alumno:
+    * trabaja en su propia Branch
+    * tiene que resolver por lo menos 1 issue del profesor
+    * tiene que efectuar un pull request y resolver conflictos
+
+
 # Tabla "Guia" =\> "Cheat-Sheet"
 
 <table class="tg">
@@ -90,12 +101,13 @@ ___
 
 # Glosario
 
-## Contenido del Glosario : 
-* Definicion y/o explicacion 
+## Contenido del Glosario :
+* Definicion y/o explicacion
 * En que capa TCP/IP \<=\> OSI trabajan
-* ### Elementos de una red (y en que capa de los modelos TCP/IP \<=\> OSI trabajan)
+* ### Elementos de una red
+#### y en que capa de los modelos TCP/IP \<=\> OSI trabajan ==>> se completa en la tabla
   *  Router
-  *  Switch 
+  *  Switch
    *  Switch Capa 2
    *  Switch Capa 3
   *  Hub
