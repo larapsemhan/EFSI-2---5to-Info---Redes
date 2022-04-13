@@ -8,10 +8,10 @@ gvqmat4
 ___
 
 # TP1
+###probando
 
 
-
-Este es un template para el tp1 de seminario
+Este es un template
 
  ## Consigna:
  * El trabajo es por grupos de proyecto
