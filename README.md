@@ -6,9 +6,7 @@ jncwcwo
 gvqmat4
 
 ___
-
 # TP1
-
 
 Este es un template
 
