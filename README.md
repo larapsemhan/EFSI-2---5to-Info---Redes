@@ -7,7 +7,7 @@ gvqmat4
 ___
 # TP1
 
-Este es un template del TP1 para github
+Este es un template del TP1
 
  ## Consigna:
  * El trabajo es por grupos de proyecto
