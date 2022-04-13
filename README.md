@@ -7,11 +7,7 @@ gvqmat4
 ___
 # TP1
 
-<<<<<<< HEAD
 Este es un template del TP1 para github
-=======
-template del TP1
->>>>>>> a04bc8def90aced894414e555a4cb45170129107
 
  ## Consigna:
  * El trabajo es por grupos de proyecto
