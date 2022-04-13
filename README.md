@@ -8,7 +8,6 @@ gvqmat4
 ___
 
 # TP1
-###probando
 
 
 Este es un template
