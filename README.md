@@ -7,7 +7,11 @@ gvqmat4
 ___
 # TP1
 
+<<<<<<< HEAD
 Template del TP1 templarizado
+=======
+ TP1 templarizado
+>>>>>>> 5bc4ce606c2714a7d51d729d12994c809a1c88d3
 
  ## Consigna:
  * El trabajo es por grupos de proyecto
