@@ -7,8 +7,6 @@ gvqmat4
 ___
 # TP1
 
-(Template)
-
  ## Consigna:
  * El trabajo es por grupos de proyecto
  * Tienen que trabajar todos utilizando la metodologia del workflow de github
