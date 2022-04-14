@@ -7,7 +7,7 @@ gvqmat4
 ___
 # TP1
 
-Template del TP1
+Template del TP1 templarizado
 
  ## Consigna:
  * El trabajo es por grupos de proyecto
