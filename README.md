@@ -1,7 +1,7 @@
 # EFSI 2
-## Clasroom 5to a:
+## Clasroom 5° a:
 jncwcwo
-## Clasroom 5to b:
+## Clasroom 5° b:
 gvqmat4
 
 ___
