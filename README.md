@@ -19,7 +19,7 @@ ___
     * tiene que efectuar un pull request y resolver conflictos
 
 
-# Tabla "Guia" =\> "Cheat-Sheet"
+# Tabla "Guia" =\> "Cheat-Sheet":
 
 <table class="tg">
 <thead>
