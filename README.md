@@ -102,7 +102,7 @@ ___
 
 # Glosario
 
-## Contenido del Glosario :
+## Contenido del Glosario:
 * Definicion y/o explicacion
 * En que capa TCP/IP \<=\> OSI trabajan
 * ### Elementos de una red
