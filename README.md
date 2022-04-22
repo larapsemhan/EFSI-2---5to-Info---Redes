@@ -109,7 +109,7 @@ ___
 #### y en que capa de los modelos TCP/IP \<=\> OSI trabajan ==>> se completa en la tabla
   *  Router
   *  Switch
-   *  Switch Capa 2 (modelo osi)
+   *  Switch Capa 2 (=)
    *  Switch Capa 3
   *  Hub
   *  Server
