@@ -105,23 +105,26 @@ ___
 ## Contenido del Glosario:
 * Definicion y/o explicacion
 * En que capa TCP/IP \<=\> OSI trabajan
-* ### Elementos de una red
+### Definiciones Generales
+  * Server
+  * Host
+  * Telefono IP
+### Elementos de una red
 #### y en que capa de los modelos TCP/IP \<=\> OSI trabajan ==>> se completa en la tabla
   *  Router
   *  Switch
    *  Switch Capa 2 (=)
    *  Switch Capa 3
   *  Hub
-  *  Server
-  *  Host
-  *  Firewall
-  *  IP phone
   *  Wireless Access-point
   *  Wireless Router
-  *  Wan
-  *  Lan
+  *  WAN
+  *  LAN
+  *  VLAN
+  *  WLAN
   *  Media (Medio de Transporte)
 * ### Protocolos
+  *  VOIP
   *  DNS
   *  FTP
   *  SSH
@@ -136,7 +139,10 @@ ___
   *  ARP
   *  MAC
   *  IEEE 802.11 (WIFI)
+  *  IEEE 802.3 (ETHERNET) 
   *  Fibra OPTICA
+  *  "Firewall"
+   
 
 * ###   Unidad de Datos de protocolo (PDU)(Encapsulamiento)
   * Datos
